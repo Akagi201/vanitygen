@@ -4,7 +4,7 @@ Generate Cryptocurrency vanity address.
 
 ## Support coins
 - [x] BTC
-- [ ] ETH
+- [x] ETH
 - [ ] DCR
 
 ## Usage
